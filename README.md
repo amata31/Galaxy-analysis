@@ -35,19 +35,23 @@ data ingestion → preprocessing → modeling → parameter estimation → visua
 
 Main techniques:
 
-- Spectral line modeling (Gaussian/Lorentzian fitting)
-- Noise handling and signal extraction
-- Parameter optimization
-- Scientific visualization
+- Data normalization and flux rescaling to external photometric constraints
+- Multi-source data integration and consistency alignment
+- Spectral resampling into uniform wavelength bins
+- Template-based model comparison
+- Quantitative evaluation of alternative physical scenarios
+- Scientific visualization for comparative diagnostics
 - Error propagation analysis
 
 ---
 
 ## 📂 Repository Structure
 
-├── notebook_analysis.ipynb   # Exploratory data analysis and visualization  
-├── spectral_fit.py           # Emission line fitting routines  
-├── figures/                  # Output plots and diagnostics  
+## 📂 Repository Structure
+
+├── P170+20_P1.ipynb   # Data normalization, binning strategy implementation, and preliminary template testing  
+├── P170+20_P2.ipynb   # Quantitative model comparison and hypothesis evaluation  
+├── figures/          # Diagnostic plots and comparative visualizations   
 
 ---
 
