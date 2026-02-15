@@ -47,8 +47,6 @@ Main techniques:
 
 ## 📂 Repository Structure
 
-## 📂 Repository Structure
-
 ├── P170+20_P1.ipynb   # Data normalization, binning strategy implementation, and preliminary template testing  
 ├── P170+20_P2.ipynb   # Quantitative model comparison and hypothesis evaluation  
 ├── figures/          # Diagnostic plots and comparative visualizations   
