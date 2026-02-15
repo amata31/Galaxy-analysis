@@ -10,11 +10,13 @@ The project was carried out during a research internship at the Gemini Observato
 
 To process and analyze spectroscopic observations in order to:
 
-- Estimate redshift
-- Perform emission-line fitting
-- Measure fluxes and luminosities
+- Rescaling spectroscopic data to match photometric reference points
+- Combining multi-source observational datasets
+- Resampling spectra into uniform wavelength bins
+- Comparing observational data against galaxy template models
+- Evaluating plausible physical scenarios through model fitting
 - Evaluate the gravitational lensing hypothesis
-- Extract kinematic information from spectral features
+- Extract information from spectral features
 
 Although astrophysics-driven, the workflow follows a structured data science pipeline:
 
